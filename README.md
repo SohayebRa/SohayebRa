@@ -1,7 +1,7 @@
 ```sh
 "Hello World 👋"
 ```
-## Je suis Sohayeb, un développeur web junior.
+## I'm Sohayeb, a Junior Full Stack Developer.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP

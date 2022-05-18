@@ -4,9 +4,9 @@
 ## I'm Sohayeb, a Junior Full Stack Developer.
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP
-- ⚙️ React, Angular, Symfony, NodeJs
-- 👁️ MaterialUI, Bootstrap
+- 👨‍💻 HTML/CSS, JavaScript, PHP
+- ⚙️ React, Symfony, Angular, NodeJs
+- 👁️ Bootstrap, MaterialUI
 - 🗄️ MySQL, postgresSQL
 
 ## Contact

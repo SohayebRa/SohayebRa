@@ -7,7 +7,7 @@
 - 👨‍💻 HTML/CSS, JavaScript
 - ⚙️ ReactJs, ExpressJs, NodeJs
 - 👁️ Bootstrap, TailwindCSS, MUI
-- 🗄️ MySQL, postgresSQL
+- 🗄️ MySQL, postgresSQL, Git, GitLab
 
 ## Contact
 - sohayeb.surge.sh

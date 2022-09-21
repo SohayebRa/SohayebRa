@@ -1,12 +1,12 @@
 ```sh
 "Hello World 👋"
 ```
-## I'm Sohayeb, a Junior Full Stack Developer.
+## I'm Sohayeb, a Full Stack Developer.
 
 ## Skills
-- 👨‍💻 HTML/CSS, JavaScript, PHP
-- ⚙️ React, Symfony, Angular, NodeJs
-- 👁️ Bootstrap, MaterialUI
+- 👨‍💻 HTML/CSS, JavaScript
+- ⚙️ ReactJs, ExpressJs, NodeJs
+- 👁️ Bootstrap, TailwindCSS, MUI
 - 🗄️ MySQL, postgresSQL
 
 ## Contact
